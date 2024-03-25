@@ -1,4 +1,4 @@
-header{background-color: blueviolet;color: aliceblue;display:flex}
+header{background-color: blueviolet;color: aliceblue;display:flex; justify-content: space-around;}
 .cabecalho-image{width: 
     20%;}
 
